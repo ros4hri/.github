@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-Apache_2-blue.svg) ![ROS1](https://img.shields.io/badge/ROS1-compatible-green.svg) ![ROS2](https://img.shields.io/badge/ROS2-compatible-green.svg)
 
-![ROS4HRI banner][ros4hri_ids.png]
+![ROS4HRI banner](ros4hri_ids.png)
 
 ## 🤖❤️🤗 What is ROS4HRI?  
 
@@ -79,4 +79,6 @@ Unless otherwise stated in a specific module, all material in this organisation
 is available under the [Apache License, Version 2.0](LICENSE) — see each
 repository for details.
 
+
+![EU funding acknowledgement](eu-logos.png)
 
