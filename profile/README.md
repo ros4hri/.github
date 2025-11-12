@@ -1,5 +1,9 @@
 # ROS4HRI: Bridging Human-Robot Interaction with ROS
 
+![License](https://img.shields.io/badge/license-Apache_2-blue.svg) ![ROS1](https://img.shields.io/badge/ROS1-compatible-green.svg) ![ROS2](https://img.shields.io/badge/ROS2-compatible-green.svg)
+
+![ROS4HRI banner][ros4hri_ids.png]
+
 ## 🤖❤️🤗 What is ROS4HRI?  
 
 ROS4HRI is a collection of open-source resources built around the [Human-Robot
@@ -32,6 +36,8 @@ Relevant academic references include:
 - **Open Collaboration** – Built to be extended, adapted and contributed to by the wider robotics and HRI research community.
 
 ## 📂 Key Repositories  
+
+![rviz screenshot](rviz.png)
 
 Here are some of the main modules you’ll find here:  
 - **[hri_msgs](https://github.com/ros4hri/hri_msgs)** and **[hri_actions_msgs](https://github.com/ros4hri/hri_actions_msgs)** – ROS message definitions specific to human-robot interaction.  
